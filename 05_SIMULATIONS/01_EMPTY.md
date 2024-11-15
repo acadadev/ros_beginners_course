@@ -6,3 +6,5 @@ title_url: /05_SIMULATIONS/01_EMPTY.html
 title: "Empty World"
 description: "How to launch the empty simulation with your robot"
 ---
+
+## EMPTY WORLD
