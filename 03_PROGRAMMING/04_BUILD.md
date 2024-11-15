@@ -1,3 +1,13 @@
+---
+layout: default
+section_title: "Programming in ROS Environment"
+section_url: /03_PROGRAMMING/README.html
+title_url: /03_PROGRAMMING/04_BUILD.html
+title: "Building Tips"
+description: "How to build ROS programs"
+---
+
+
 ## Building and Compiling ROS programs
 
 If in a constrained environment such as the robot, these might be useful.
